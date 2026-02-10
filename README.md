@@ -37,7 +37,9 @@ HubSpot • Mailchimp • Google Analytics • Excel • Power BI • Canva
 Seeking a **Digital Marketing Internship or Entry-Level Role** where I can contribute to email marketing, CRM, analytics, and growth-focused campaigns while continuing to learn and deliver measurable impact.
 
 ## 📫 Contact
-- **LinkedIn:** (add your link)  
-- **Email:** (add your email)  
+- **LinkedIn:** This repository presents my Digital Marketing portfolio, featuring practical projects in email marketing campaigns, CRM automation, content planning, basic SEO, A/B testing, and marketing analytics. Using tools such as HubSpot, Mailchimp, Google Analytics, Excel, and Power BI, I designed and documented real campaign workflows focused on improving customer engagement and supporting data-driven business growth.
+
+The portfolio highlights my ability to plan, execute, and analyze marketing activities from concept to reporting while continuously learning modern digital marketing strategies. I am currently seeking a Digital Marketing Internship or entry-level opportunity where I can contribute to email marketing, CRM management, campaign performance tracking, and growth-focused marketing initiatives.  
+- **Email:** comfortbtaiwo@gmail.com  
 
 Thank you for viewing my portfolio.
